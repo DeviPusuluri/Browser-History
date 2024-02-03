@@ -1,0 +1,28 @@
+.userCardContainer {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.userDetailsContainer {
+  margin-left: 12px;
+}
+.user-name {
+  font-size: 18px;
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.user-designation {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #594d6d;
+  margin: 0px;
+}
+.del-img {
+  height: 15px;
+  width: 15px;
+}
